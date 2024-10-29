@@ -82,6 +82,9 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px> </picture> Estadísticas de GitHub
 
-<details><summary><h3> 🔥 Estadísticas de actividad</h3></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimejhonle&theme=tokyonight_duo" alt="jaimejhonle" /></p>
-</details>
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
+
+🌞 Mañana     93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
+🌆 Tarde      274 commits    ██████░░░░░░░░░░░░░░░░░░░   27.16% 
+🌃 Noche      396 commits    █████████░░░░░░░░░░░░░░░░   39.25% 
+🌙 Madrugada  246 commits    ██████░░░░░░░░░░░░░░░░░░░   24.38%
