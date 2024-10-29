@@ -17,16 +17,16 @@
 - :computer: Disfruto de la programación competitiva y de mejorar mis habilidades en `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 - :thinking: Actualmente estoy abierto a `nuevas oportunidades de trabajo`.
-- :boom: Puedes visitar [MI SITIO WEB](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: Puedes visitar [MI SITIO WEB](https://loxacode.com).
 
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conecta conmigo
 <p align="center">
 	<a href="mailto:gerencia@loxacode.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/JaimeLandazuri"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/[tu_numero_de_telefono]"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/JaimeLandazuri/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/jaimejhonle"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/593968048989"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/jaimejhonle/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 🛠️ Mis Habilidades
@@ -83,5 +83,5 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px> </picture> Estadísticas de GitHub
 
 <details><summary><h3> 🔥 Estadísticas de actividad</h3></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeLandazuri&theme=tokyonight_duo" alt="JaimeLandazuri" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeLandazuri&theme=tokyonight_duo" alt="jaimejhonle" /></p>
 </details>
